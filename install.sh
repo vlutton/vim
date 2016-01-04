@@ -12,6 +12,7 @@ ln -s $PWD/vimrc ~/.vimrc
 ln -s $PWD/gvimrc ~/.gvimrc
 
 colormsg 2 "Fetching plugs..."
+vim +PlugClean
 vim +PlugInstall
 
 colormsg 2 "Installing YouCompleteMe"
