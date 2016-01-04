@@ -1,4 +1,4 @@
-Install instructions
+#Install instructions:
 1. cd ~
 2. git clone this repo
 3. mv vim .vim
