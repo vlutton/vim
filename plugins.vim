@@ -12,6 +12,8 @@ Plug 'flazz/vim-colorschemes'
 
 " tern
 Plug 'ternjs/tern_for_vim'
+" close html tags
+Plug 'alvan/vim-closetag'
 " easymotion
 Plug 'easymotion/vim-easymotion'
 Plug 'ctrlpvim/ctrlp.vim'
